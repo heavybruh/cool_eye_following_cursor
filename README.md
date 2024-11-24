@@ -1,2 +1,2 @@
 # COOL EYE FOLLOWING MOUSE
- yeah,.,,..,//,.,.,/,2
+Coded in Psych Engine 1.0
